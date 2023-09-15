@@ -1,22 +1,20 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Preahvihear&weight=500&size=30&duration=4000&pause=600&color=3DBFB3&vCenter=true&width=435&lines=Hello+Folks+👋;I'am+Tushar+Tirkey;finally+you+Landed+Here" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Preahvihear&weight=500&size=30&duration=4000&pause=600&color=3DBFB3&vCenter=true&width=435&lines=Hello+Folks+👋;I'am+Shubham+ Raj+ Sahu;finally+you+Landed+Here" alt="Typing SVG" /></a>
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinspy&label=Profile%20views&color=0e75b6&style=flat" alt="pinspy" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB0c3Z0MTNhZzZybDAxNTNoeTB0eDhiMGo5dWpiNTllYW5oM3hqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif">
 
 
-<p align="left"> <a href="https://twitter.com/tushartirkey" target="blank"><img src="https://img.shields.io/twitter/follow/tushartirkey?logo=twitter&style=for-the-badge" alt="tushartirkey" /></a> </p>
-
-- 📫 How to reach me **tushartirkey123@gmail.com**
+- 📫 How to reach me **shubhamraj200104@gmail.com**
 
 - ⚡ Fun fact is that **I'am Still Sleeping**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tushartirkey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tushartirkey" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tushar tirkey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar tirkey" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shubham-raj-sahu-7474b1194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar tirkey" height="30" width="40" /></a>
 <a href="https://instagram.com/pin.spy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pin.spy" height="30" width="40" /></a>
 </p>
 
